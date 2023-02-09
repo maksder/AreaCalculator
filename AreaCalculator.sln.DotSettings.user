@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bb52a87e_002D9dd5_002D424f_002Dbec8_002D78973a34f465/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CalculateArea_CalculateTriangleAreaWithCorrectParameter_Success" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::053617E1-A073-4FED-986B-8C2A81598BEA::net5.0::UnitTest.Tests.CalculateArea_CalculateTriangleAreaWithCorrectParameter_Success&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::053617E1-A073-4FED-986B-8C2A81598BEA::net5.0::UnitTest.Tests.CalculateArea_CalculateCircleAreaWithCorrectParameter_Success&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::053617E1-A073-4FED-986B-8C2A81598BEA::net5.0::UnitTest.Tests.CalculateArea_CalculateCircleAreaWithIncorrectParameter_Failed&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::053617E1-A073-4FED-986B-8C2A81598BEA::net5.0::UnitTest.Tests.CalculateArea_CalculateTriangleAreaWithIncorrectParameter_Failed&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cc91dafa_002Debb2_002D4a89_002Dbafe_002D248596c23526/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalculateArea_CalculateTriangleAreaWithCorrectParameter_Success #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::053617E1-A073-4FED-986B-8C2A81598BEA::net5.0::TestProject1.Tests.CalculateArea_CalculateTriangleAreaWithCorrectParameter_Success&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
