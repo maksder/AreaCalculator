@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sZaDKoxsmGucGYzh84+NoeAFDbv92MvIonQvkZO3s7hJi7JBLVek+eoyeuvF5CDrmxkSlo3vtP/cfMx9gxou1Q==",
+  "dgSpecHash": "fdDtaOIaWvzptSb9beFv04GFZLcVWjAPs+PfYix99ERaqNRWB1qzvxj/+L5KVA5ddJLLEY7m2Pv8ZSuE8ejCHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Maksim\\RiderProjects\\AreaCalculator\\UnitTest\\UnitTest.csproj",
+  "projectFilePath": "C:\\Users\\Maksim\\RiderProjects\\AreaCalculator\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maksim\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\Maksim\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

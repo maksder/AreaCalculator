@@ -8,7 +8,7 @@ namespace UnitTest
 	/// <summary>
 	/// Представляет набор тестов для <see cref="AreaCalculatorService"/>
 	/// </summary>
-	public class Tests
+	public class AreaCalculatorTestFixture
 	{
 		[Test]
 		public void CalculateArea_CalculateTriangleAreaWithCorrectParameter_Success()

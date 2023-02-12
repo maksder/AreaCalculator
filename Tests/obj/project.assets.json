@@ -4644,11 +4644,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maksim\\RiderProjects\\AreaCalculator\\UnitTest\\UnitTest.csproj",
-      "projectName": "UnitTest",
-      "projectPath": "C:\\Users\\Maksim\\RiderProjects\\AreaCalculator\\UnitTest\\UnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\Maksim\\RiderProjects\\AreaCalculator\\Tests\\Tests.csproj",
+      "projectName": "Tests",
+      "projectPath": "C:\\Users\\Maksim\\RiderProjects\\AreaCalculator\\Tests\\Tests.csproj",
       "packagesPath": "C:\\Users\\Maksim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maksim\\RiderProjects\\AreaCalculator\\UnitTest\\obj\\",
+      "outputPath": "C:\\Users\\Maksim\\RiderProjects\\AreaCalculator\\Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Maksim\\AppData\\Roaming\\NuGet\\NuGet.Config",
